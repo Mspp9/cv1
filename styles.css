@@ -97,3 +97,7 @@ border-bottom-style: double;
 /*.table tr:nth-child(even) {
   background: red;
 }*/
+
+.link-list {
+  list-style: none;
+}

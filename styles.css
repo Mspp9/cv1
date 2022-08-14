@@ -108,3 +108,13 @@ border-bottom-style: double;
  padding-bottom: 5px;
   border-bottom: 1px solid #ccc;
  }
+
+ .contact h2 {
+  text-align: center;
+ }
+
+ .form-group label {
+display: block;
+font-size: 14px;
+color: #86898f;
+ }

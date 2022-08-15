@@ -151,6 +151,14 @@ color: #86898f;
  }
 
  .btn {
-  color: #111
-  padding: 15px 20px
+  background:#111;
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  font-family: inherit;
+  cursor: pointer;
+ }
+
+ .btn:hover {
+  opacity: 0.9;
  }
